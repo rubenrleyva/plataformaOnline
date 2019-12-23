@@ -1,2 +1,2 @@
 # plataformaOnline
-Creación de una plataforma online
+Creación de una plataforma online con Laravel 6
